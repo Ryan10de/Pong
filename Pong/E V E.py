@@ -17,7 +17,7 @@ height = 600
 screen = pygame.display.set_mode((width, height))
 
 
-pygame.display.set_caption("Ping Pong Game")
+pygame.display.set_caption("Ping Pong EVE")
 
 # Game rectangle
 ball = pygame.Rect(width / 2 - 15, height / 2 - 15, 30, 30, )
